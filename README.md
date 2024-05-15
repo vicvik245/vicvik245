@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vicvik245
 - 👀 I am interested in full stack software development
-- 🌱 I'm "interning" with Ferilion labs pvt ltd as a software developer
+- 🌱 I'm looking for a full stack developer job (either as intern or full time employee) in any company
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 I can be reached on vicvik247@gmail.com and 09513898187
 
