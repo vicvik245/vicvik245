@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @vicvik245
-- 👀 I am interested in software development
-- 🌱 I'm looking for a software development (full stack developer) related job in any company.
-- 💞️ I’m looking to collaborate on software development projects
-- 📫 I can be reached on vicvik247@gmail.com and 09513898187
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Hello, World!</title>
+  </head>
+  <body>
+    <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Hello, World!</title>
+  </head>
+  <body>
+    
 
 <!---
 vicvik245/vicvik245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
